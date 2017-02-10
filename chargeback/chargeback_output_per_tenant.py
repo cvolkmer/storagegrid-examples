@@ -1,21 +1,3 @@
-#
-# Beispiele:
-# https://github.com/csiebler/storagegrid-examples
-#
-# Python for Windwos installieren
-#
-# C:\Users\udb.GSNET\AppData\Local\Programs\Python\Python36\Scripts\pip install requests
-# C:\Users\udb.GSNET\AppData\Local\Programs\Python\Python36\Scripts\pip install jason
-# C:\Users\udb.GSNET\AppData\Local\Programs\Python\Python36\Scripts\pip install configparser
-#
-# Im Homedir C:\Users\udb.GSNET\ das configfile anlegen .storagegrid_admin
-#
-# Dann script starten:
-# C:\Users\udb.GSNET\AppData\Local\Programs\Python\Python36\Python.exe C:\Users\udb.GSNET\AppData\Local\Programs\Python\Python36\Scripts\chargeback.py
-#
-# Outputfile usage_stats_2017-01-20_13-40-12.csv liegt dann im Homedir C:\Users\udb.GSNET\ 
-#
-#
 import requests
 import json
 import csv
